@@ -8,7 +8,8 @@ be able to achieve your goals as quickly as possible.
 - Web Storm <kbd>[Web Storm](#the-url)</kbd>
 - Rider 
 - Git Kraken
-- Slack  https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+- Slack  
 - Jira 
 - Postman 
 
+https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
