@@ -12,4 +12,5 @@ be able to achieve your goals as quickly as possible.
 - Jira 
 - Postman 
 
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+
+![Alt text](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "Slack")
