@@ -5,11 +5,10 @@ be able to achieve your goals as quickly as possible.
 ## My stack: 
 
 - Macbook pro M1
-- Web Storm 
+- Web Storm <kbd>[Web Storm](#the-url)</kbd>
 - Rider 
 - Git Kraken
 - Slack 
 - Jira 
 - Postman 
 
-![](https://img.shields.io/github/labels/<USER>/<REPO>/<LABEL>)
