@@ -12,4 +12,4 @@ be able to achieve your goals as quickly as possible.
 - Jira 
 - Postman 
 
-[~comments]: https://img.shields.io/badge/-comments-006b75.svg
+[~api]: https://img.shields.io/badge/-api-0052cc.svg
