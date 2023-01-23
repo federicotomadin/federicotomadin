@@ -11,3 +11,6 @@ be able to achieve your goals as quickly as possible.
 - Slack 
 - Jira 
 - Postman 
+
+
+[![](https://i.imgur.com/JflcH01.png)](../labels/bug)
