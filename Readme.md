@@ -9,5 +9,5 @@ a quality product be able to achieve your goals as quickly as possible.
 ![Alt text](https://img.shields.io/badge/Rider-E50914?style=for-the-badge&logo=Rider&logoColor=white "Rider")
 ![Alt text](https://img.shields.io/badge/Git%20Kraken-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white "Git Kraken")
 ![Alt text](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "Slack")
-![Alt text](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white "Jira")
+![Alt text](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white "Linear")
 ![Alt text](https://img.shields.io/badge/Postman-E97627?style=for-the-badge&logo=Tableau&logoColor=white "Postman")
